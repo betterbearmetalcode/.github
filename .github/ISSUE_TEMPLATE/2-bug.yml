@@ -39,13 +39,13 @@ body:
       label: OS
       description: Which operating system?
       multiple: true
-    options:
-      - Windows
-      - macOS
-      - Linux
-      - Android
-      - iOS
-      - Web
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - Android
+        - iOS
+        - Web
   - type: input
     id: version
     attributes:
